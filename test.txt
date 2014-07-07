@@ -1,3 +1,5 @@
 This is a test file.
 
 This file has changed.
+
+This file has changed again, as part of a new branch.
